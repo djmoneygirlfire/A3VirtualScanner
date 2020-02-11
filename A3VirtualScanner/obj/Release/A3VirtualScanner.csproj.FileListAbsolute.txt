@@ -1,0 +1,10 @@
+D:\프로그램\자작\A3VirtualScanner\A3VirtualScanner\bin\Release\A3VirtualScanner.exe.config
+D:\프로그램\자작\A3VirtualScanner\A3VirtualScanner\bin\Release\A3VirtualScanner.exe
+D:\프로그램\자작\A3VirtualScanner\A3VirtualScanner\bin\Release\A3VirtualScanner.pdb
+D:\프로그램\자작\A3VirtualScanner\A3VirtualScanner\obj\Release\A3VirtualScanner.Properties.Resources.resources
+D:\프로그램\자작\A3VirtualScanner\A3VirtualScanner\obj\Release\A3VirtualScanner.csproj.GenerateResource.cache
+D:\프로그램\자작\A3VirtualScanner\A3VirtualScanner\obj\Release\A3VirtualScanner.csproj.CoreCompileInputs.cache
+D:\프로그램\자작\A3VirtualScanner\A3VirtualScanner\obj\Release\A3VirtualScanner.exe
+D:\프로그램\자작\A3VirtualScanner\A3VirtualScanner\obj\Release\A3VirtualScanner.pdb
+D:\프로그램\자작\A3VirtualScanner\A3VirtualScanner\obj\Release\A3VirtualScanner.Form1.resources
+D:\프로그램\자작\A3VirtualScanner\A3VirtualScanner\obj\Release\A3VirtualScanner.csprojAssemblyReference.cache
